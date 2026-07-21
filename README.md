@@ -2,7 +2,7 @@
 
 Café de especialidad · venta online (grano, molido y cápsulas) — Buenos Aires.
 
-`@caferini.arg` · caferini.com.ar
+`@caferini.arg` · caferini.com
 
 ## Identidad de marca
 
