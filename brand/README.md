@@ -45,7 +45,7 @@ brand/
 ├── avatar/       Foto de perfil: monograma "C" y wordmark completo
 ├── instagram/    Posts, historia y 3 portadas de destacados
 ├── tiendanube/   Banner de la tienda
-├── email/        Header de newsletter y firma de mail
+├── email/        Header de newsletter, plantilla de newsletter y firma de mail
 ├── product/      Etiqueta de bolsa (ejemplo Etiopía, con campos editables)
 ├── moodboard/    Referencia visual de dirección de marca
 └── fonts/        Archivos de fuente + aviso de licencia
@@ -62,6 +62,7 @@ brand/
 | `instagram/destacado-*` | Portadas de destacados | 1080×1080 (2x) |
 | `tiendanube/banner-tienda` | Banner de tienda | 1920×600 (2x) |
 | `email/header-newsletter` | Encabezado de mail | 1200×400 (2x) |
+| `email/plantilla-newsletter` | Newsletter mensual completo (historia de origen + receta) | 1200×2153 (2x) |
 | `email/firma-mail` | Firma de correo | 1200×300 (2x) |
 | `product/etiqueta-bolsa-ejemplo` | Etiqueta 250 g | 1000×1400 (2x) |
 
