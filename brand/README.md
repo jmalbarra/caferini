@@ -64,7 +64,11 @@ brand/
 | `email/header-newsletter` | Encabezado de mail | 1200×400 (2x) |
 | `email/plantilla-newsletter` | Newsletter mensual completo (historia de origen + receta) | 1200×2153 (2x) |
 | `email/firma-mail` | Firma de correo | 1200×300 (2x) |
-| `product/etiqueta-bolsa-ejemplo` | Etiqueta 250 g | 1000×1400 (2x) |
+| `product/etiqueta-bolsa-ejemplo` | Etiqueta 250 g — Etiopía | 1000×1400 (2x) |
+| `product/etiqueta-bolsa-bourbon` | Etiqueta 250 g — Bourbon | 1000×1400 (2x) |
+| `product/etiqueta-bolsa-colombia` | Etiqueta 250 g — Colombia | 1000×1400 (2x) |
+| `product/etiqueta-bolsa-peru` | Etiqueta 250 g — Perú | 1000×1400 (2x) |
+| `product/etiqueta-bolsa-blend` | Etiqueta 250 g — Blend Caferini | 1000×1400 (2x) |
 
 > Todas las imágenes son PNG a 2x (alta resolución). Sirven para usar directo; para
 > editarlas (cambiar origen, textos, etc.) conviene rearmarlas en Canva con la fuente
