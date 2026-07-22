@@ -48,6 +48,7 @@ brand/
 ├── email/        Header de newsletter, plantilla de newsletter y firma de mail
 ├── product/      Etiqueta de bolsa (ejemplo Etiopía, con campos editables)
 ├── moodboard/    Referencia visual de dirección de marca
+├── content/      Curaduría de fotos/video de stock para sitio/IG
 └── fonts/        Archivos de fuente + aviso de licencia
 ```
 
