@@ -1,7 +1,7 @@
 # Caferini — Guía de marca
 
 **Caferini** · café de especialidad · venta online (grano, molido y cápsulas) — Buenos Aires, Argentina.
-Handle: `@caferini.arg` · Web: `caferini.com.ar`
+Handle: `@caferini.arg` · Web: `caferini.com`
 
 Esta carpeta contiene la identidad visual de la marca: logos, avatares, plantillas
 de redes, banner de tienda, piezas de mail, etiqueta de producto y el moodboard de
@@ -83,7 +83,7 @@ brand/
 | `email/header-newsletter` | Encabezado de mail | 1200×400 (2x) |
 | `email/plantilla-newsletter` | Newsletter mensual completo (historia de origen + receta) | 1200×2153 (2x) |
 | `email/firma-mail` | Firma de correo | 1200×300 (2x) |
-| `product/etiqueta-*` | Etiqueta 250 g (una por café, color de acento propio) | 1000×1400 (2x) |
+| `product/etiqueta-*` | Etiqueta 250 g (una por café, color de acento propio, con pie de IG/web) | 1000×1400 (2x) |
 
 > Todas las imágenes son PNG a 2x (alta resolución). Sirven para usar directo; para
 > editarlas (cambiar origen, textos, etc.) conviene rearmarlas en Canva con la fuente
