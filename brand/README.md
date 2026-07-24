@@ -83,11 +83,28 @@ brand/
 | `email/header-newsletter` | Encabezado de mail | 1200×400 (2x) |
 | `email/plantilla-newsletter` | Newsletter mensual completo (historia de origen + receta) | 1200×2153 (2x) |
 | `email/firma-mail` | Firma de correo | 1200×300 (2x) |
-| `product/etiqueta-*` | Etiqueta 250 g (una por café, color de acento propio, con pie de IG/web) | 1000×1400 (2x) |
+| `product/etiqueta-*-10x15cm-300dpi` | Sticker de etiqueta, listo para imprenta | 1181×1772 px = **10 × 15 cm @ 300 DPI** |
 
 > Todas las imágenes son PNG a 2x (alta resolución). Sirven para usar directo; para
 > editarlas (cambiar origen, textos, etc.) conviene rearmarlas en Canva con la fuente
 > Suncos subida.
+
+### Impresión de las etiquetas
+
+Los stickers de `product/` están listos para mandar a imprenta:
+
+- **Medida final:** 10 × 15 cm
+- **Resolución:** 1181 × 1772 px a 300 DPI (metadata incluida en el PNG, así que la
+  imprenta lee la medida física sola)
+- **Aplicación:** van centrados en el frente de la bolsa blanca de **16 × 23 cm**,
+  dejando margen blanco visible a los cuatro lados (el sticker cubre ~60-65% del frente)
+- **Sangrado (bleed):** los archivos vienen al tamaño exacto, sin sangrado. Si la
+  imprenta pide 3 mm de sangrado, se le puede indicar que extienda el fondo azul
+  `#2499C7` — no hay elementos críticos cerca del borde, así que no se pierde nada.
+- **Área segura:** ningún texto queda a menos de ~7 mm del borde.
+
+Para generar las fotos de producto y los banners del sitio, ver
+[`PROMPTS-IMAGENES.md`](PROMPTS-IMAGENES.md).
 
 ---
 
