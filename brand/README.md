@@ -23,6 +23,24 @@ referencia.
 > El blanco siempre va sobre el azul (buen contraste); en fondos claros o facturas se
 > usa la variante azul-sobre-blanco.
 
+### Colores por café (acento en etiquetas)
+
+Cada variedad del lineup tiene un color de acento propio, usado en el nombre del
+café dentro de la etiqueta (bolita + wordmark). El resto de la etiqueta (bag azul,
+"Caferini", subtítulo) se mantiene igual en todas — el acento es lo único que cambia,
+para diferenciar de un vistazo sin perder que todas son la misma marca.
+
+| Café | Perfil | Color de acento | HEX |
+|------|--------|------------------|-----|
+| Bourbon | Suave, chocolate/caramelo | 🟠 Caramelo | `#C17F2E` |
+| Blend | Medio, chocolate/frutos secos | 🔶 Terracota | `#B5562F` |
+| Etiopía | Floral/cítrico/miel, premium | 🌸 Frambuesa | `#A83D6B` |
+| Crema & Aroma | Intenso, tueste oscuro | ☕ Espresso | `#4A2F23` |
+
+> Si se suma un café nuevo al lineup, elegir un acento que no se repita con los
+> existentes y que sea coherente con su perfil (cálido/claro para suaves, oscuro/
+> profundo para intensos, un tono vivo para florales/frutados).
+
 ## Tipografía
 
 | Rol | Fuente | Notas |
@@ -46,8 +64,9 @@ brand/
 ├── instagram/    Posts, historia y 3 portadas de destacados
 ├── tiendanube/   Banner de la tienda
 ├── email/        Header de newsletter, plantilla de newsletter y firma de mail
-├── product/      Etiqueta de bolsa (ejemplo Etiopía, con campos editables)
+├── product/      Etiquetas de bolsa: Bourbon, Blend, Etiopía, Crema & Aroma
 ├── moodboard/    Referencia visual de dirección de marca
+├── content/      Curaduría de fotos/video de stock para sitio/IG
 └── fonts/        Archivos de fuente + aviso de licencia
 ```
 
@@ -64,7 +83,7 @@ brand/
 | `email/header-newsletter` | Encabezado de mail | 1200×400 (2x) |
 | `email/plantilla-newsletter` | Newsletter mensual completo (historia de origen + receta) | 1200×2153 (2x) |
 | `email/firma-mail` | Firma de correo | 1200×300 (2x) |
-| `product/etiqueta-bolsa-ejemplo` | Etiqueta 250 g | 1000×1400 (2x) |
+| `product/etiqueta-*` | Etiqueta 250 g (una por café, color de acento propio) | 1000×1400 (2x) |
 
 > Todas las imágenes son PNG a 2x (alta resolución). Sirven para usar directo; para
 > editarlas (cambiar origen, textos, etc.) conviene rearmarlas en Canva con la fuente
